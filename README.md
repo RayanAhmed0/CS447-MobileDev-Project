@@ -14,7 +14,7 @@
 
 
 ## Author
-👤 **Rayan Ahmed , **Abdullah Aldosari , **Abdullah Alolayan , **Abdulhadi Alharbi
+👤 **Rayan Ahmed** , **Abdullah Aldosari** , **Abdullah Alolayan** , **Abdulhadi Alharbi**
 ## Show your support
 Give a ⭐️ if this project helped you!
 ***
